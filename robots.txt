@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /lena/
+Disallow: /tuanmuda/bot-office/
+Disallow: /tuanmuda/snap-nyc/
+Disallow: /mars/
+
+Sitemap: https://mudagogo2021-beep.github.io/sitemap.xml
